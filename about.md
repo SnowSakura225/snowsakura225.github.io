@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+There is still nothing I can say about myself
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+I will list some of my social media accounts here, however please contact me by email for serious matters!
+
+* Email: [mail@snowsakura.xyz](mailto:mail@snowsakura.xyz)
+* Instagram: [@dirga_brajamusti](https://instagram.com/dirga_brajamusti)
+* Discord: [Rin#9145]()
